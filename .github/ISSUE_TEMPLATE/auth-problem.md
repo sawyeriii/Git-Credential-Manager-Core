@@ -2,8 +2,9 @@
 name: Authentication failure
 about: An authentication problem occurred when running a Git command.
 title: ''
-labels: 'auth-failure'
+labels: ''
 assignees: ''
+
 ---
 
 **Which version of GCM Core are you using?**
