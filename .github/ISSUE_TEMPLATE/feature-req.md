@@ -2,8 +2,9 @@
 name: Feature request
 about: A suggestion for a new feature in Git Credential Manager Core.
 title: ''
-labels: 'enhancement'
+labels: enhancement
 assignees: ''
+
 ---
 
 **Feature description**
